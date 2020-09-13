@@ -1,4 +1,4 @@
 class ApplicationMailer < ActionMailer::Base
-  default from: 'from@example.com'
+  default from: 'system@kaigionrails.s01.ninja'
   layout 'mailer'
 end
